@@ -8,14 +8,6 @@ This is a video streaming platfrom. This platfrom lets user to upload video, int
 2. Open **index.html** in any web browser.
 3. The videos will load automatically since relative path were used as reference to video path.
 
-## Example Video Tag
-
-```html
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/your-username/your-repo/main/videos/video1.mp4" type="video/mp4">
-</video>
-```
-
 ## Requirements
 
 - Any modern browser
